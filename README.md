@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋, I'm Waryion </h2>
 <img src="./gifs/MonochromeCity_Source_Adafruit.gif?raw=true"  width="100px" align="right">
 
-I'm an 19 year old software developer with a strong background in Computer Science and a passion for learning about new technologies. I'm always looking for new challenges and opportunities to grow and improve my skills. I'm especially interested in the field of Programming, Storage Technologies, HPC, Virtual Production and Cinematography. I tinker around with my homelab and my other projects in my free time.
+I'm a 20 year old software developer with a strong background in Computer Science and a passion for learning about new technologies. I'm always looking for new challenges and opportunities to grow and improve my skills. I'm especially interested in the field of Programming, Storage Technologies, HPC, Virtual Production and Cinematography. I tinker around with my homelab and my other projects in my free time.
 
 
 <br>
